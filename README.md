@@ -2,27 +2,26 @@
 
 
 <p align="center">
-  <img src="https://pluspng.com/img-png/airbnb-logo-png-airbnb-logo-1600.png" width= "320" height="240">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fzomato-logo%2F&psig=AOvVaw3-BKUk66VF_F3nWfmFJXxV&ust=1718976851787000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDdjPal6oYDFQAAAAAdAAAAABAE" width= "320" height="240">
 </p>
 
 
 # 📝Problem Statement
 
-Travel industries are having important reflection of the economy from past few decades, and Airbnb housing price ranges are of great interest for both Hosts and Traveler. In this project, we are analyzing the Airbnb dataset to uncover various aspects. It helps in not only understanding the meaningful relationships between attributes but it also allows us to do our own research and come-up with our findings.<br>
+In this project, we investigate a dataset that carries approximate facts about restaurant chains all over the world. The project's main aim is to perform descriptive and statistical analysis based on a few goals designed.
 
-Since 2008, guests and hosts have used AirBNB to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in San Diego, California for 2019.
-This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+# Dataset: 
+The dataset provides information like an average cost for two, location, votes, the aggregate rating, cuisines, country, rating text, etc. Various analysis like the top cuisines, most expensive restaurants, average rating for each country, and many other analysis are performed on the dataset. The dataset's owner is Zomato and Kaggle is the source providing the data.
 
-# Objectives: 
-The objective of this project is 
-1. Initial Data Exploration.
-2. Data cleaning & Feature Engineering.
-3. Data Visualization & Exploratory Data Analysis<br>
-At the end we aim to genrate various meaningfull insights and conclusions from the data to uncover hidden aspects
+# Zomato Analysis:
+1. Load the Raw Data.
+2. Data cleaning is performed on Python libraries Numpy, and pandas.
+3. Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
+4. Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
 
-# 🎉 Approach (Architecture):
-![137479294-ccfa21f9-81e1-4de8-8f96-15ddefdec06e](https://github.com/hmtsharma/Airbnb_DataAnalysis_PW/assets/86962269/f0d9fb03-d93f-4b0a-8ebc-aeccb064d6e9)
+# 🎉 Dashboard:
+![Zomato Analysis_page-0001](https://github.com/hmtsharma/Zomato-Data-Analysis-Power-BI/assets/86962269/852e0fd1-8e81-416b-9275-4601ac6fdd3c)
 
 
 
