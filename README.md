@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fzomato-logo%2F&psig=AOvVaw3-BKUk66VF_F3nWfmFJXxV&ust=1718976851787000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDdjPal6oYDFQAAAAAdAAAAABAE" width= "320" height="240">
+  <img src="![Zomato-Logo](https://github.com/hmtsharma/Zomato-Data-Analysis-Power-BI/assets/86962269/f20164bf-5579-42bc-b90c-9750e5d78b5b)
+  " width= "320" height="240">
 </p>
 
 
