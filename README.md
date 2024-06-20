@@ -24,8 +24,9 @@ The dataset provides information like an average cost for two, location, votes, 
 
 
 # 💡 Conclusions
-In this analysis project, about 16 different use cases were analyzed on the given dataset to make better business decisions and help analyze customer trends and satisfaction, which can lead to new and better products and services. we find-out the Top Earners (Host), 
-relationship between Monthly Earning and Prices, Price comparison in terms of Property Type, and 
-Room Type, Preference of Guests w.r.t. Property Type & Room Type. Furthermore, we have also 
-been analyzed Maximum Number of Bookings, Customer Reviews/Comments, Amenities provided 
-by the Airbnb’s and many more.
+1. Dashboard Creation: Designed and developed an interactive Power BI dashboard for analyzing Zomato data.
+2. Data Aggregation: Aggregated data on restaurant ratings and cuisine type.
+3. Insightful Visualizations: Created visualizations to highlight city-wise counts of restaurants, table bookings, and online bookings.
+4. Performance Metrics: Developed key performance indicators (KPIs) to display the number of restaurants, number of cuisines, and other relevant metrics.
+5. Geographical Insights: Implemented interactive maps to visualize restaurant performance across different locations.
+6. Outcome: Provided insights into customer behavior, enhancing strategic planning and decision-making through comprehensive data analysis.
