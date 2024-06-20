@@ -1,10 +1,7 @@
 # Zomato Data Analysis Project
 
+![Zomato-Logo](https://github.com/hmtsharma/Zomato-Data-Analysis-Power-BI/assets/86962269/87659f02-05dd-4d29-acab-02d535413744)
 
-<p align="center">
-  <img src="![Zomato-Logo](https://github.com/hmtsharma/Zomato-Data-Analysis-Power-BI/assets/86962269/f20164bf-5579-42bc-b90c-9750e5d78b5b)
-  " width= "320" height="240">
-</p>
 
 
 # 📝Problem Statement
